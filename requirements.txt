@@ -1,0 +1,7 @@
+langchain
+langgraph
+streamlit
+python-dotenv
+supabase
+openai
+requests
